@@ -16,5 +16,5 @@ public:
 
   void Update();
   void SetState(AppState* pNewState);
-
+   
 };
